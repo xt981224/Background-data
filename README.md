@@ -1,29 +1,21 @@
-# vue_shop
 
-## Project setup
+## 项目运行
+
 ```
+
 npm install
+
+npm run serve (访问线上后台系统)
+
+访问: http://ht.kwsport.cn
+
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 部分截图
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
+<img src="https://github.com/xt981224/Background-data/src/img/1575531065(1).jpg"/>
 
-### Lints and fixes files
-```
-npm run lint
-```
+<img src="https://github.com/xt981224/Background-data/src/img/1575531133(1).jpg"/>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="https://github.com/xt981224/Background-data/src/img/1575531183(1).jpg"/>
