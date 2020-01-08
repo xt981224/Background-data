@@ -7,8 +7,6 @@ npm install
 
 npm run serve (访问线上后台系统)
 
-访问: http://ht.kwsport.cn
-
 ```
 
 # 部分截图
